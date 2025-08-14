@@ -1,0 +1,13 @@
+div >.banner-container {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("img\ghibli Airport.png");
+background-size: cover;
+background-position: center;
+min-height: 100vh;
+text-align: center;
+color: white;
+padding: 80px 0;
+}
+
+    
+
